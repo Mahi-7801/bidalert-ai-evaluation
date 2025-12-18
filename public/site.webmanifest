@@ -1,0 +1,17 @@
+{
+  "name": "BidAnalyzer AI - Bid Document Analysis Platform",
+  "short_name": "BidAnalyzer",
+  "description": "AI-Powered Bid Document Analysis Platform for Government of Andhra Pradesh",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/"
+}
+
