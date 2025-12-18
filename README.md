@@ -308,3 +308,6 @@ For support, email Hackathon-RTGS@ap.gov.in or contact the Infrastructure & Inve
  "# bidalert-ai-evaluation" 
 #   b i d a l e r t - a i - e v a l u a t i o n  
  "# bidalert-ai-evaluation" 
+#   B i d A n a l y z e r - a i  
+ #   B i d A n a l y z e r - a i  
+ 
